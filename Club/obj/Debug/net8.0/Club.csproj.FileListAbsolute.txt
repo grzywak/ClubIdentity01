@@ -756,3 +756,4 @@ C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\refint\Club.dll
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.pdb
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.genruntimeconfig.cache
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\ref\Club.dll
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.sourcelink.json

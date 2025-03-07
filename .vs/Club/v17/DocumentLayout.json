@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Karolina\\Desktop\\club4-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -80,10 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -264,23 +268,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SessionReservation.cs",
-              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
-              "RelativeDocumentMoniker": "Club\\Models\\SessionReservation.cs",
-              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
-              "RelativeToolTip": "Club\\Models\\SessionReservation.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Club\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T23:36:35.699Z"
+              "WhenOpened": "2025-03-07T17:20:07.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "20240625214531_InitialDatabaseSeed.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
               "RelativeDocumentMoniker": "Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
@@ -292,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20240625214307_UpdateSectionSeed.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
@@ -304,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Member.cs",
@@ -317,7 +322,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "EquipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\EquipmentsController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
+              "RelativeToolTip": "Club\\Controllers\\EquipmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:06:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\SessionReservation.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
+              "RelativeToolTip": "Club\\Models\\SessionReservation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Maintenance.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Maintenance.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Maintenance.cs",
@@ -329,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Coach.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Coach.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Coach.cs",
@@ -341,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ProgressCard.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ProgressCard.cs",
               "RelativeDocumentMoniker": "Club\\Models\\ProgressCard.cs",
@@ -353,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Section.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Section.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Section.cs",
@@ -365,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainContext.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Data\\MainContext.cs",
               "RelativeDocumentMoniker": "Club\\Data\\MainContext.cs",
@@ -377,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.json",
               "RelativeDocumentMoniker": "Club\\appsettings.json",
@@ -389,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "SessionReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\SessionReservationsController.cs",
               "RelativeDocumentMoniker": "Club\\Controllers\\SessionReservationsController.cs",
@@ -401,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Club\\wwwroot\\css\\site.css",
@@ -413,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Session.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Session.cs",
@@ -425,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TermsAndConditions.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\TermsAndConditions.cs",
               "RelativeDocumentMoniker": "Club\\Models\\TermsAndConditions.cs",
@@ -437,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "SessionDetailsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
@@ -449,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MemberDetailsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
@@ -461,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Feedback.cs",
@@ -473,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Details.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Details.cshtml",
@@ -485,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MembersController.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "Club\\Controllers\\MembersController.cs",
@@ -497,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Equipment.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Equipment.cs",
               "RelativeDocumentMoniker": "Club\\Models\\Equipment.cs",
@@ -509,19 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EquipmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
-              "RelativeDocumentMoniker": "Club\\Controllers\\EquipmentsController.cs",
-              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
-              "RelativeToolTip": "Club\\Controllers\\EquipmentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T14:06:23.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Club\\Controllers\\HomeController.cs",
@@ -533,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "MaintenancesController.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MaintenancesController.cs",
               "RelativeDocumentMoniker": "Club\\Controllers\\MaintenancesController.cs",
@@ -545,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CoachesController.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\CoachesController.cs",
               "RelativeDocumentMoniker": "Club\\Controllers\\CoachesController.cs",
@@ -557,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Index.cshtml",
@@ -569,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Edit.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Edit.cshtml",
@@ -581,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Details.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Details.cshtml",
@@ -593,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Details.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Members\\Details.cshtml",
@@ -605,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Members\\Index.cshtml",
@@ -617,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "MemberCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\MemberCreateDTO.cs",
               "RelativeDocumentMoniker": "Club\\Models\\DTOs\\MemberCreateDTO.cs",
@@ -629,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Index.cshtml",
@@ -641,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Edit.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Edit.cshtml",
@@ -653,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Create.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Create.cshtml",
@@ -665,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Home\\Index.cshtml",
@@ -677,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Program.cs",
               "RelativeDocumentMoniker": "Club\\Program.cs",
@@ -689,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Edit.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Edit.cshtml",
@@ -701,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Equipments\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Equipments\\Index.cshtml",
@@ -713,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Delete.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Delete.cshtml",
@@ -725,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Maintenances\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Maintenances\\Index.cshtml",
@@ -737,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Shared\\_Layout.cshtml",
@@ -749,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Index.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Index.cshtml",
@@ -761,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Delete.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Members\\Delete.cshtml",
@@ -773,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Create.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Members\\Create.cshtml",
@@ -785,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Home\\Privacy.cshtml",
@@ -797,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\_ViewStart.cshtml",
@@ -809,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Club\\appsettings.Development.json",
@@ -821,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "20240622144618_InitialDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
@@ -833,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "SessionReservationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\SessionReservationDTO.cs",
               "RelativeDocumentMoniker": "Club\\Models\\DTOs\\SessionReservationDTO.cs",
@@ -845,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "20240622143517_InitialDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
@@ -857,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "20240622142837_InitialDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
@@ -869,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Create.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Create.cshtml",
@@ -881,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Delete.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Delete.cshtml",
@@ -893,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "20240621230355_InitialSeed.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
@@ -905,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "20240622011737_updateSeed.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
@@ -917,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "SessionEquipment.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionEquipment.cs",
               "RelativeDocumentMoniker": "Club\\Models\\SessionEquipment.cs",
@@ -929,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "StrengthEquipment.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\StrengthEquipment.cs",
               "RelativeDocumentMoniker": "Club\\Models\\StrengthEquipment.cs",
@@ -941,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Home\\About.cshtml",
@@ -953,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -965,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Delete.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Delete.cshtml",
@@ -977,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\Shared\\Error.cshtml",
@@ -989,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "Club.csproj",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Club.csproj",
               "RelativeDocumentMoniker": "Club\\Club.csproj",
@@ -1001,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Club\\Views\\_ViewImports.cshtml",
@@ -1013,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "20240524192835_init.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
               "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
@@ -1025,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "20240516152310_addSection.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
               "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
@@ -1037,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "20240516151710_addSection.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
               "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
@@ -1049,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "20240516152118_addSection.cs",
               "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
               "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
