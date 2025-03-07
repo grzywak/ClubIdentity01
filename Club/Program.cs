@@ -1,5 +1,6 @@
+using Club.Controllers;
 using Club.Data;
-using Club.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Club
@@ -21,7 +22,11 @@ namespace Club
             // builder.Services.AddDatabaseDeveloperPageExceptionFilter();
             // Rejestracja HttpClient
             builder.Services.AddHttpClient();
-            builder.Services.AddScoped<AuthService>();
+            //  builder.Services.AddScoped<AuthService>();
+
+           // builder.Services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<MainContext>();
+
+            builder.Services.AddControllersWithViews();
 
 
             var app = builder.Build();

@@ -504,6 +504,15 @@ C:\Users\Karolina\Documents\Club4\Club\obj\Debug\net8.0\refint\Club.dll
 C:\Users\Karolina\Documents\Club4\Club\obj\Debug\net8.0\Club.pdb
 C:\Users\Karolina\Documents\Club4\Club\obj\Debug\net8.0\Club.genruntimeconfig.cache
 C:\Users\Karolina\Documents\Club4\Club\obj\Debug\net8.0\ref\Club.dll
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.AssemblyInfoInputs.cache
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.AssemblyInfo.cs
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.RazorAssemblyInfo.cache
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.RazorAssemblyInfo.cs
+C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.sourcelink.json
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\appsettings.json
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Club.staticwebassets.runtime.json
@@ -514,7 +523,11 @@ C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Club.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Club.pdb
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\EntityFramework.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\Microsoft.Build.dll
@@ -732,14 +745,6 @@ C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\runtimes\win\lib\net7
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Karolina\Desktop\club4-main\Club\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.csproj.AssemblyReference.cache
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.AssemblyInfoInputs.cache
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.AssemblyInfo.cs
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.csproj.CoreCompileInputs.cache
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.RazorAssemblyInfo.cache
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.RazorAssemblyInfo.cs
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\staticwebassets\msbuild.Club.Microsoft.AspNetCore.StaticWebAssets.props
@@ -756,4 +761,3 @@ C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\refint\Club.dll
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.pdb
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.genruntimeconfig.cache
 C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\ref\Club.dll
-C:\Users\Karolina\Desktop\club4-main\Club\obj\Debug\net8.0\Club.sourcelink.json

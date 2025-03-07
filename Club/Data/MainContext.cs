@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Club.Data
 {
+
     public class MainContext : DbContext
     {
 
