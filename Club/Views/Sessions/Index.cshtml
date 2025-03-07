@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Club.Models.Session>
+
+@{
+    ViewData["Title"] = "Sessions";
+}
+
+<div class="container">
+    <div class="mb-5">
+        <h1 class="display-4 text-left">Sessions</h1>
+        <p class="lead text-left">Browse our available sessions and join the one that suits you best.</p>
+    </div>
+    <!--
+    <p class="text-left">
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+    -->
+    <table class="table table-hover">
+        <thead style="background-color: #3C096C;">
+            <tr>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.StartTime)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.EndTime)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.MaxParticipants)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.AvailableSlots)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Section)
+                </th>
+                <th style="color: #ffffff;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StartTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EndTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaxParticipants)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AvailableSlots)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Section.SectionID)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.SessionID" class="btn btn-sm" style="background-color: #5A189A; color: #ffffff;">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.SessionID" class="btn btn-sm" style="background-color: #6D0CCD; color: #ffffff;">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.SessionID" class="btn btn-sm" style="background-color: #7F00FF; color: #ffffff;">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

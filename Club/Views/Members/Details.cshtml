@@ -1,0 +1,167 @@
+﻿@model Club.Models.ViewModels.MemberDetailsViewModel
+
+@{
+    ViewData["Title"] = "Member Details";
+}
+
+<div class="container">
+    <div class="mb-5">
+        <h1 class="display-4 text-left">@ViewData["Title"]</h1>
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Member</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Member.LastName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Member.LastName)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Member.Name)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Member.Name)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Member.RegistrationDate)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Member.RegistrationDate)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Member.Email)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Member.Email)
+            </dd>
+        </dl>
+    </div>
+
+    @if (Model.ProgressCard != null)
+    {
+        <div class="mb-4">
+            <h4 class="text-left" style="color: #5A189A;">Progress Card</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                    @Html.DisplayNameFor(model => model.ProgressCard.MeasurementDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ProgressCard.MeasurementDate)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                    @Html.DisplayNameFor(model => model.ProgressCard.Weight)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ProgressCard.Weight)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                    @Html.DisplayNameFor(model => model.ProgressCard.BodyFatPercentage)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ProgressCard.BodyFatPercentage)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                    @Html.DisplayNameFor(model => model.ProgressCard.MuscleMass)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ProgressCard.MuscleMass)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                    @Html.DisplayNameFor(model => model.ProgressCard.Height)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.ProgressCard.Height)
+                </dd>
+            </dl>
+        </div>
+    }
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Session Reservations</h4>
+        @if (Model.Member.SessionReservations != null && Model.Member.SessionReservations.Any())
+        {
+            <table class="table table-hover">
+                <thead style="background-color: #3C096C;">
+                    <tr>
+                        <th style="color: #ffffff;">
+                            @Html.DisplayNameFor(model => model.Member.SessionReservations.First().Session.Name)
+                        </th>
+                        <th style="color: #ffffff;">
+                            @Html.DisplayNameFor(model => model.Member.SessionReservations.First().Session.StartTime)
+                        </th>
+                        <th style="color: #ffffff;">
+                            @Html.DisplayNameFor(model => model.Member.SessionReservations.First().Session.EndTime)
+                        </th>
+                        <th style="color: #ffffff;">
+                            @Html.DisplayNameFor(model => model.Member.SessionReservations.First().ReservationDate)
+                        </th>
+                        <th style="color: #ffffff;">
+                            @Html.DisplayNameFor(model => model.Member.SessionReservations.First().Status)
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var reservation in Model.Member.SessionReservations)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => reservation.Session.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => reservation.Session.StartTime)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => reservation.Session.EndTime)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => reservation.ReservationDate)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => reservation.Status)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No reservations found.</p>
+        }
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Register for New Session</h4>
+        <form asp-action="AddSessionReservation" method="post">
+            <div class="form-group">
+                <label asp-for="SessionID" class="control-label">Select Session</label>
+                <select asp-for="SessionID" class="form-control" asp-items="Model.Sessions"></select>
+                <span asp-validation-for="SessionID" class="text-danger"></span>
+            </div>
+            <input type="hidden" name="MemberID" value="@Model.Member.ID" />
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn btn-primary" />
+            </div>
+        </form>
+        <div class="custom-validation-error">
+            @Html.ValidationSummary(false, "", new { @class = "custom-validation-error" })
+        </div>
+    </div>
+
+    <div class="mb-4">
+        <!--
+        <a asp-action="Edit" asp-route-id="@Model.Member.ID" class="btn" style="background-color: #6D0CCD; color: #ffffff;">Edit</a>
+        -->
+        <a asp-action="Index" class="btn" style="background-color: #7F00FF; color: #ffffff;">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

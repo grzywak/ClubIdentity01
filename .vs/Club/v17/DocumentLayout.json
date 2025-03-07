@@ -1,0 +1,1067 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karolina\\Desktop\\club4-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\sessionreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\sessionreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\data\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\data\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\termsandconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\termsandconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\progresscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\progresscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\sessionreservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\sessionreservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\viewmodels\\memberdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\viewmodels\\memberdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\viewmodels\\sessiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\viewmodels\\sessiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\controllers\\maintenancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\controllers\\maintenancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessionreservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessionreservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessionreservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessionreservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessionreservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessionreservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\dtos\\membercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\dtos\\membercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\maintenances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\maintenances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\equipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\equipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\coaches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\coaches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\coaches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\coaches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\dtos\\sessionreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\dtos\\sessionreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessionreservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessionreservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\sessionreservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\sessionreservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\sessionequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\sessionequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\models\\strengthequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\models\\strengthequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\coaches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\coaches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\club.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\club.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|c:\\users\\karolina\\desktop\\club4-main\\club\\migrations\\20240625214531_initialdatabaseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448FADB-170E-4EB2-B72B-58919161883B}|Club\\Club.csproj|solutionrelative:club\\migrations\\20240625214531_initialdatabaseseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\SessionReservation.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionReservation.cs",
+              "RelativeToolTip": "Club\\Models\\SessionReservation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240625214531_InitialDatabaseSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
+              "RelativeDocumentMoniker": "Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
+              "RelativeToolTip": "Club\\Migrations\\20240625214531_InitialDatabaseSeed.cs",
+              "ViewState": "AQIAABoCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:45:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240625214307_UpdateSectionSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240625214307_UpdateSectionSeed.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:43:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Member.cs",
+              "RelativeToolTip": "Club\\Models\\Member.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:06:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maintenance.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Maintenance.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Maintenance.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Maintenance.cs",
+              "RelativeToolTip": "Club\\Models\\Maintenance.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:55:53.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Coach.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Coach.cs",
+              "RelativeToolTip": "Club\\Models\\Coach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:32:04.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgressCard.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ProgressCard.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\ProgressCard.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ProgressCard.cs",
+              "RelativeToolTip": "Club\\Models\\ProgressCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:10:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Section.cs",
+              "RelativeToolTip": "Club\\Models\\Section.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:03:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Data\\MainContext.cs",
+              "RelativeDocumentMoniker": "Club\\Data\\MainContext.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Data\\MainContext.cs",
+              "RelativeToolTip": "Club\\Data\\MainContext.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAgwNsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:30:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.json",
+              "RelativeDocumentMoniker": "Club\\appsettings.json",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.json",
+              "RelativeToolTip": "Club\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T19:31:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\SessionReservationsController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\SessionReservationsController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\SessionReservationsController.cs",
+              "RelativeToolTip": "Club\\Controllers\\SessionReservationsController.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAwwLwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:17:56.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Club\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Club\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADQBAAAAAAAAAAAAAE4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-23T16:34:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Session.cs",
+              "RelativeToolTip": "Club\\Models\\Session.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:43:31.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TermsAndConditions.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\TermsAndConditions.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\TermsAndConditions.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\TermsAndConditions.cs",
+              "RelativeToolTip": "Club\\Models\\TermsAndConditions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:42:58.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
+              "RelativeToolTip": "Club\\Models\\ViewModels\\SessionDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:20:10.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemberDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
+              "RelativeToolTip": "Club\\Models\\ViewModels\\MemberDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:37:38.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Feedback.cs",
+              "RelativeToolTip": "Club\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:25:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Details.cshtml",
+              "RelativeToolTip": "Club\\Views\\Sessions\\Details.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T19:28:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Club\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:22:40.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\Equipment.cs",
+              "RelativeToolTip": "Club\\Models\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:23:00.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\EquipmentsController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\EquipmentsController.cs",
+              "RelativeToolTip": "Club\\Controllers\\EquipmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:06:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Club\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:57:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MaintenancesController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MaintenancesController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\MaintenancesController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\MaintenancesController.cs",
+              "RelativeToolTip": "Club\\Controllers\\MaintenancesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:34:20.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoachesController.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\CoachesController.cs",
+              "RelativeDocumentMoniker": "Club\\Controllers\\CoachesController.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Controllers\\CoachesController.cs",
+              "RelativeToolTip": "Club\\Controllers\\CoachesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:32:56.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\SessionReservations\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T23:25:58.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Edit.cshtml",
+              "RelativeToolTip": "Club\\Views\\SessionReservations\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T23:26:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Details.cshtml",
+              "RelativeToolTip": "Club\\Views\\SessionReservations\\Details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T02:15:28.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Details.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Members\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Details.cshtml",
+              "RelativeToolTip": "Club\\Views\\Members\\Details.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAswJoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:22:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Members\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:22:13.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MemberCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\MemberCreateDTO.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\DTOs\\MemberCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\MemberCreateDTO.cs",
+              "RelativeToolTip": "Club\\Models\\DTOs\\MemberCreateDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T02:57:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Sessions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T01:29:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Edit.cshtml",
+              "RelativeToolTip": "Club\\Views\\Sessions\\Edit.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T18:41:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Create.cshtml",
+              "RelativeToolTip": "Club\\Views\\Sessions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:47:34.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:56:13.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Program.cs",
+              "RelativeDocumentMoniker": "Club\\Program.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Program.cs",
+              "RelativeToolTip": "Club\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:42:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Edit.cshtml",
+              "RelativeToolTip": "Club\\Views\\Coaches\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:54:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Equipments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Equipments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Equipments\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Equipments\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T15:48:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Sessions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Sessions\\Delete.cshtml",
+              "RelativeToolTip": "Club\\Views\\Sessions\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T18:41:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Maintenances\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Maintenances\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Maintenances\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Maintenances\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T15:48:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Club\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:01:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Index.cshtml",
+              "RelativeToolTip": "Club\\Views\\Coaches\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:34:09.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Members\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Delete.cshtml",
+              "RelativeToolTip": "Club\\Views\\Members\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T11:32:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Members\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "Club\\Views\\Members\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T02:07:44.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Club\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:56:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Club\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:10:21.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Club\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\appsettings.Development.json",
+              "RelativeToolTip": "Club\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T19:31:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240622144618_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622144618_InitialDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:46:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SessionReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\SessionReservationDTO.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\DTOs\\SessionReservationDTO.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\DTOs\\SessionReservationDTO.cs",
+              "RelativeToolTip": "Club\\Models\\DTOs\\SessionReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:17:23.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240622143517_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622143517_InitialDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:35:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240622142837_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622142837_InitialDatabase.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:28:37.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Create.cshtml",
+              "RelativeToolTip": "Club\\Views\\SessionReservations\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:41:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\SessionReservations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\SessionReservations\\Delete.cshtml",
+              "RelativeToolTip": "Club\\Views\\SessionReservations\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:38:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240621230355_InitialSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240621230355_InitialSeed.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:03:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240622011737_updateSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
+              "RelativeToolTip": "..\\..\\Documents\\Club4\\Club\\Migrations\\20240622011737_updateSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:17:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SessionEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionEquipment.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\SessionEquipment.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\SessionEquipment.cs",
+              "RelativeToolTip": "Club\\Models\\SessionEquipment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T01:45:48.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StrengthEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\StrengthEquipment.cs",
+              "RelativeDocumentMoniker": "Club\\Models\\StrengthEquipment.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Models\\StrengthEquipment.cs",
+              "RelativeToolTip": "Club\\Models\\StrengthEquipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:27:30.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Club\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T22:00:13.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Club\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:15:51.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Coaches\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Coaches\\Delete.cshtml",
+              "RelativeToolTip": "Club\\Views\\Coaches\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:38:26.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Club\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:15:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Club.csproj",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Club.csproj",
+              "RelativeDocumentMoniker": "Club\\Club.csproj",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Club.csproj",
+              "RelativeToolTip": "Club\\Club.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T18:37:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Club\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\club4-main\\Club\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Club\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:42:45.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240524192835_init.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
+              "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
+              "RelativeToolTip": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240524192835_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:28:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240516152310_addSection.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
+              "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
+              "RelativeToolTip": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152310_addSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:23:10.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240516151710_addSection.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
+              "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
+              "RelativeToolTip": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516151710_addSection.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:17:10.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240516152118_addSection.cs",
+              "DocumentMoniker": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
+              "RelativeDocumentMoniker": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
+              "ToolTip": "C:\\Users\\Karolina\\Desktop\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
+              "RelativeToolTip": "..\\Club \u2014 kopia 15.05\\Club\\Migrations\\20240516152118_addSection.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:21:18.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

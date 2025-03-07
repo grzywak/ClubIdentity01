@@ -1,0 +1,104 @@
+﻿@model Club.Models.ViewModels.HomeViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-4">Welcome to Our Gym Club!</h1>
+    <p class="lead">Explore our services and join our community to stay fit and healthy.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header text-white" style="background-color: #240046;">
+                    Latest Sessions
+                </div>
+                <ul class="list-group list-group-flush">
+                    @if (Model.LatestSessions != null && Model.LatestSessions.Any())
+                    {
+                        @foreach (var session in Model.LatestSessions)
+                        {
+                            <li class="list-group-item">
+                                <strong>@session.Name</strong><br />
+                                <small>@session.StartTime.ToString("yyyy-MM-dd HH:mm")</small>
+                            </li>
+                        }
+                    }
+                    else
+                    {
+                        <li class="list-group-item">No sessions available.</li>
+                    }
+                </ul>
+                <div class="card-footer text-center">
+                    <a asp-controller="Sessions" asp-action="Index" class="btn text-white" style="background-color: #240046;">View All Sessions</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header text-white" style="background-color: #3C096C;">
+                    Our Feedbacks
+                </div>
+                <ul class="list-group list-group-flush">
+                    @if (Model.LatestFeedbacks != null && Model.LatestFeedbacks.Any())
+                    {
+                        @foreach (var feedback in Model.LatestFeedbacks)
+                        {
+                            <li class="list-group-item">
+                                <strong>Session:</strong> @feedback.Session.Name<br />
+                                <strong>Rating:</strong>
+                                @{
+                                    for (int i = 0; i < feedback.Rating; i++)
+                                    {
+                                        @:★
+                                    }
+                                    for (int i = feedback.Rating; i < 5; i++)
+                                    {
+                                        @:☆
+                                    }
+                                }
+                                <br />
+                                <strong>Comment:</strong> @feedback.Comment
+                            </li>
+                        }
+                    }
+                    else
+                    {
+                        <li class="list-group-item">No feedback available.</li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header text-white" style="background-color: #5A189A;">
+                    Membership Info
+                </div>
+                <div class="card-body">
+                    <p>Join our community and enjoy unlimited access to our sessions and facilities. By becoming a member, you can take advantage of all the resources we offer to help you achieve your fitness goals.</p>
+                    <a asp-controller="Members" asp-action="Create" class="btn text-white" style="background-color: #5A189A;">Join Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card shadow-sm">
+                <div class="card-header text-white" style="background-color: #6D0CCD;">
+                    Announcements
+                </div>
+                <div class="card-body">
+                    <ul class="list-unstyled">
+                        <li>New yoga classes starting from next week. Don't miss out on this opportunity to improve your flexibility and relaxation techniques.</li>
+                        <li>Special discounts on annual memberships! Sign up now to take advantage of these limited-time offers and enjoy a full year of benefits.</li>
+                        <li>Upcoming fitness challenge - sign up now! Push your limits and see how much you can achieve with the support of our community and trainers.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

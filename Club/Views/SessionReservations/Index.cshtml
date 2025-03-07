@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Club.Models.SessionReservation>
+
+@{
+    ViewData["Title"] = "Reservations";
+}
+
+<div class="container">
+    <div class="mb-5">
+        <h1 class="display-4 text-left">Reservations</h1>
+        <p class="lead text-left">Browse all reservations and manage them accordingly.</p>
+    </div>
+ 
+    <table class="table table-hover">
+        <thead style="background-color: #3C096C;">
+            <tr>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Session.SessionID)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Session.Name)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Member.ID)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Member.Name)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Member.LastName)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.ReservationDate)
+                </th>
+                <th style="color: #ffffff;">
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+                <th style="color: #ffffff;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Session.SessionID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Session.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Member.ID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Member.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Member.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ReservationDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.SessionReservationID" class="btn btn-sm" style="background-color: #5A189A; color: #ffffff;">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.SessionReservationID" class="btn btn-sm" style="background-color: #6D0CCD; color: #ffffff;">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.SessionReservationID" class="btn btn-sm" style="background-color: #7F00FF; color: #ffffff;">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p class="text-left">
+        <form asp-action="CheckAndCancelReservations" method="post">
+            <input type="submit" value="Cancel Outdated Reservations" class="btn btn-warning" />
+        </form>
+    </p>
+</div>

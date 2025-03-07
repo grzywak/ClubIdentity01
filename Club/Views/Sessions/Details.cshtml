@@ -1,0 +1,110 @@
+﻿@model Club.Models.ViewModels.SessionDetailsViewModel
+
+@{
+    ViewData["Title"] = "Session Details";
+}
+
+<div class="container">
+    <div class="mb-5">
+        <h1 class="display-4 text-left">@ViewData["Title"]</h1>
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Session</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Session.Name)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Session.Name)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Session.StartTime)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Session.StartTime)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Session.EndTime)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Session.EndTime)
+            </dd>
+            <dt class="col-sm-3 font-weight-bold" style="color: #3C096C;">
+                @Html.DisplayNameFor(model => model.Session.AvailableSlots)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Session.AvailableSlots)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Terms and Conditions</h4>
+        <hr />
+        <div>
+            @Html.DisplayFor(model => model.Session.TermsAndConditions.Content)
+        </div>
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Registered Members</h4>
+        @if (Model.Session.SessionReservations != null && Model.Session.SessionReservations.Any())
+        {
+            <table class="table table-hover">
+                <thead style="background-color: #3C096C;">
+                    <tr>
+                        <th style="color: #ffffff;">First Name</th>
+                        <th style="color: #ffffff;">Last Name</th>
+                        <th style="color: #ffffff;">Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var reservation in Model.Session.SessionReservations)
+                    {
+                        <tr>
+                            <td>@reservation.Member.Name</td>
+                            <td>@reservation.Member.LastName</td>
+                            <td>@reservation.Member.Email</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No members registered for this session.</p>
+        }
+    </div>
+
+    <div class="mb-4">
+        <h4 class="text-left" style="color: #5A189A;">Add New Reservation</h4>
+        <form asp-action="AddSessionReservation" method="post">
+            <div class="form-group">
+                <label asp-for="MemberID" class="control-label">Select Member</label>
+                <select asp-for="MemberID" class="form-control" asp-items="Model.Members"></select>
+                <span asp-validation-for="MemberID" class="text-danger"></span>
+            </div>
+            <p>If the member not found <a asp-controller="Members" asp-action="Create" style="color: #5A189A;">create a new member</a>.</p>
+            <input type="hidden" asp-for="SessionID" value="@Model.Session.SessionID" />
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn" style="background-color: #5A189A; color: #ffffff;" />
+            </div>
+        </form>
+        <div class="custom-validation-error">
+            @Html.ValidationSummary(false, "", new { @class = "custom-validation-error" })
+        </div>
+    </div>
+
+    <div class="mb-4">
+        <a asp-action="Edit" asp-route-id="@Model.Session.SessionID" class="btn" style="background-color: #6D0CCD; color: #ffffff;">Edit</a>
+        <a asp-action="Index" class="btn" style="background-color: #7F00FF; color: #ffffff;">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
