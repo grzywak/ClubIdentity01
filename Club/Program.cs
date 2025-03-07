@@ -1,4 +1,5 @@
 using Club.Data;
+using Club.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace Club
@@ -17,7 +18,10 @@ namespace Club
               opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
               );
 
-           // builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+            // builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+            // Rejestracja HttpClient
+            builder.Services.AddHttpClient();
+            builder.Services.AddScoped<AuthService>();
 
 
             var app = builder.Build();
